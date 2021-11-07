@@ -1,0 +1,16 @@
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\4inARow.exe
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\4inARow.deps.json
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\4inARow.runtimeconfig.json
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\4inARow.runtimeconfig.dev.json
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\4inARow.dll
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\ref\4inARow.dll
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\bin\Debug\net5.0\4inARow.pdb
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.csproj.AssemblyReference.cache
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.dll
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\ref\4inARow.dll
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.pdb
+C:\Users\Ghost\Desktop\Projects\4InARow\4inARow\4inARow\obj\Debug\net5.0\4inARow.genruntimeconfig.cache
